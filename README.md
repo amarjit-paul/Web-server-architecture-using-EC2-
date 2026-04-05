@@ -55,3 +55,7 @@ is accessible, monitored, and automated.
 - Add HTTPS using SSL certificate
 - Use domain instead of public IP
 - Implement load balancing
+
+
+<img width="940" height="447" alt="image" src="https://github.com/user-attachments/assets/9263a1ae-c5c7-42dd-830c-0e80e2ad64fc" />
+
